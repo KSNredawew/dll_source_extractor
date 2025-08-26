@@ -1,0 +1,17 @@
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.exe
+*.bin
+*.log
+*.tmp
+*.temp
+extracted_sources/
+.DS_Store
+Thumbs.db
+.env
+venv/
+.venv/
